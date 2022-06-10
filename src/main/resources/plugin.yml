@@ -1,0 +1,6 @@
+name: ZLib
+version: '${project.version}'
+main: cn.zimzaza4.zlib.ZLib
+api-version: 1.18
+authors: [ zimzaza4 ]
+description: zimzaza4's lib
